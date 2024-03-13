@@ -13,3 +13,6 @@
 1. npm install (install all dependency)
    - Once install dependencies then start the backend server
 2. npm start
+
+# For testing APIs please gone through the postman scripts folder
+ - Copy all the raw code then click on import button in postman application and paste it. 
